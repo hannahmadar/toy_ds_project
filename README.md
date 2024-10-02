@@ -1,2 +1,3 @@
 # toy_ds_project
-practice
+
+project creation date: Oct 2
